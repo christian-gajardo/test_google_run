@@ -30,5 +30,6 @@ steps:
 images:
   - 'us-central1-docker.pkg.dev/$PROJECT_ID/test-repo-chg/mi-imagen:v1'
 
+# Configura el registro de logs directo en la consola de Google.
 options:
   logging: CLOUD_LOGGING_ONLY
