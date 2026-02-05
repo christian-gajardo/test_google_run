@@ -2,6 +2,7 @@
 
 Este es un archivo de prueba para verificar el proceso de build y despliegue automático.
 
+
 ## Notas de Build
 - Estado: Integración inicial
 - Objetivo: Probar la ejecución en Google Cloud Run
