@@ -29,3 +29,6 @@ steps:
 # Guardamos la imagen en el registro de Google Cloud
 images:
   - 'us-central1-docker.pkg.dev/$PROJECT_ID/test-repo-chg/mi-imagen:v1'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
